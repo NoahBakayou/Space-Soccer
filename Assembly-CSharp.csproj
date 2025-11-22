@@ -64,7 +64,13 @@
     <Analyzer Include="/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/UnityAssets/Stagit/SkyboxEarthPlanets/script/skyboxspace_mouselook_v1.cs" />
     <Compile Include="Assets/Scripts/NewBehaviourScript.cs" />
+    <Compile Include="Assets/UnityAssets/Stagit/SkyboxEarthPlanets/script/skyboxspace_demo_v1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/UnityAssets/Stagit/SkyboxEarthPlanets/readme.txt" />
+    <None Include="Assets/UnityAssets/HiRezSpaceshipsCreatorFree/Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -352,6 +352,8 @@
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/NewBehaviourScript.cs"
+"Assets/UnityAssets/Stagit/SkyboxEarthPlanets/script/skyboxspace_demo_v1.cs"
+"Assets/UnityAssets/Stagit/SkyboxEarthPlanets/script/skyboxspace_mouselook_v1.cs"
 -langversion:9.0
 
 /deterministic
